@@ -32,8 +32,8 @@ namespace shopmatkinh.Controllers
             return View();
         }
 
-        public ActionResult Trangchu() 
-        { 
+        public ActionResult Trangchu()
+        {
             return View();
         }
     }
